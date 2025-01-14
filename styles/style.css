@@ -103,3 +103,27 @@
     font-weight: 600;
     background-color: #FFC239 ;
 }
+.back-img{
+    background-image: url(../assets/quote-bg.png);
+    background-repeat: no-repeat;
+}
+.yunus{
+    margin: 20px 160px 80px 160px;
+    border: 1px solid rgba(12, 9, 0, 0.146);
+    border-radius: 16px;
+}
+.cheif-advisor{
+    padding: 48px 24px;
+}
+.yunus-description{
+    font-size: 16px;
+    font-weight: 400px;
+}
+.name{
+    font-size: 22px;
+    font-weight: 700px;
+    margin-top: 0px;
+}
+.dr-title{
+    font-size: 16px;
+}
